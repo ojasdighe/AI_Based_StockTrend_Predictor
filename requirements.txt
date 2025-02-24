@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+torch
+scikit-learn
+flask
+datetime
+logging
+json
+niftystocks
